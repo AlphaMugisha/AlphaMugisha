@@ -6,7 +6,94 @@
 
 <div align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" />
+    <img src="https://img.shiel<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Alpha+Mugisha;Software+Engineering+Student;Backend+Focused+Developer;Building+Real-World+Systems" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00F7FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=00F7FF" />
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&color=00F7FF" />
+
+</div>
+
+---
+
+# 👨‍💻 Alpha Mugisha  
+
+🎓 **Year 1 Software Engineering Student**  
+💡 Passionate about building systems that solve real-world problems  
+🚀 Focused on backend development & scalable applications  
+
+---
+
+## 🚀 About Me
+
+- 🎓 Studying **Software Engineering**
+- 💻 Strong interest in **JavaScript & Backend Development**
+- 🧠 Learning system design & database architecture
+- 🔥 Building practical, real-world applications
+- 🎯 Goal: Become a highly skilled backend engineer
+
+---
+
+## 🏆 Featured Projects
+
+| 🚀 Project | 📖 Description | 🛠 Tech |
+|------------|----------------|--------|
+| ⏰ **Online Alarm System** | Web-based alert & scheduling management system | JavaScript |
+| 📅 **Booking System** | Appointment & reservation management platform | HTML, CSS |
+| 🗄️ **Student Management System** | Database-driven student records system | PHP, MySQL |
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,php,mysql,git,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- ⚡ Mastering backend logic & databases  
+- 🔐 Learning authentication & security  
+- 🌍 Building scalable web systems  
+
+---
+
+## 🤝 Let’s Connect
+
+💬 Open to collaboration, feedback & learning  
+⭐ Follow me to watch my growth journey  
+
+---
+
+<div align="center">
+
+### ⚡ “I don’t just write code — I build systems.”
+
+</div>
+ds.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
