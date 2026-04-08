@@ -1,54 +1,45 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&width=650&lines=Alpha+Mugisha;Year+1+Software+Engineering+Student;Creative+Backend+Developer;Building+Real-World+Systems" />
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shiel<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Alpha+Mugisha;Software+Engineering+Student;Backend+Focused+Developer;Building+Real-World+Systems" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00F7FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=00F7FF" />
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&color=00F7FF" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alpha+Mugisha+%F0%9F%91%8B;Year+1+%7C+Software+Engineering;Backend+Developer+in+the+Making" />
 
 </div>
 
 ---
 
-# 👨‍💻 Alpha Mugisha  
+## 👨‍💻 About Me
 
-🎓 **Year 1 Software Engineering Student**  
-💡 Passionate about building systems that solve real-world problems  
-🚀 Focused on backend development & scalable applications  
+Year 1 Software Engineering student who builds real things, not just tutorials. I care about clean logic, solid databases, and systems that actually work.
 
----
-
-## 🚀 About Me
-
-- 🎓 Studying **Software Engineering**
-- 💻 Strong interest in **JavaScript & Backend Development**
-- 🧠 Learning system design & database architecture
-- 🔥 Building practical, real-world applications
-- 🎯 Goal: Become a highly skilled backend engineer
+- 🎓 **Coding Academy** — Software Engineering
+- 🔧 Focused on **backend development & databases**
+- 🚀 Currently working on making my projects better every week
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Projects
 
-| 🚀 Project | 📖 Description | 🛠 Tech |
-|------------|----------------|--------|
-| ⏰ **Online Alarm System** | Web-based alert & scheduling management system | JavaScript |
-| 📅 **Booking System** | Appointment & reservation management platform | HTML, CSS |
-| 🗄️ **Student Management System** | Database-driven student records system | PHP, MySQL |
+### ⏰ Online Alarm System
+> A web-based alert and scheduling platform. Users can set, manage, and trigger time-based alerts from the browser.
+
+**Built with:** `JavaScript` `HTML` `CSS`
 
 ---
 
-## 🛠 Tech Stack
+### 📅 Booking System
+> Appointment and reservation management — handles scheduling logic, time slots, and booking flow end to end.
+
+**Built with:** `HTML` `CSS` `JavaScript`
+
+---
+
+### 🗄️ Student Management System
+> Database-driven admin system for managing student records, grades, and enrollment data.
+
+**Built with:** `PHP` `MySQL` `HTML`
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -58,106 +49,40 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Learning Roadmap
 
-<div align="center">
+Where I started, where I am, and where I'm going.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+```
+DONE ✅
+├── HTML & CSS — structure, layout, styling
+├── JavaScript — DOM, logic, events
+├── PHP & MySQL — server-side scripting, databases
+└── Git — version control basics
 
-<br/>
+IN PROGRESS 🔨
+├── JavaScript (deeper) — async/await, fetch, APIs
+├── Database design — relationships, normalization
+└── Auth basics — sessions, hashing, login systems
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- ⚡ Mastering backend logic & databases  
-- 🔐 Learning authentication & security  
-- 🌍 Building scalable web systems  
-
----
-
-## 🤝 Let’s Connect
-
-💬 Open to collaboration, feedback & learning  
-⭐ Follow me to watch my growth journey  
+NEXT 🎯
+├── Node.js — backend with JavaScript
+├── REST APIs — building my own endpoints
+├── React — frontend framework
+└── Deployment — putting projects live on the internet
+```
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-### ⚡ “I don’t just write code — I build systems.”
-
-</div>
-ds.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</div>
-
----
-
-## 👋 About Me
-
-Hi! I'm **Alpha Mugisha**, a **Year 1 Software Engineering student** at the **Coding Academy**.  
-I enjoy turning ideas into **real, working systems** and improving my skills every day.
-
-- 🎓 Studying **Software Engineering**
-- 💻 Love working with **JavaScript**
-- 🧠 Interested in **backend development**
-- 🚀 Goal: build useful systems that solve real problems
-
----
-
-## 🚀 Projects
-
-| Project | Description | Technologies |
-|-------|------------|-------------|
-| **⏰ Online Alarm System** | A web-based alert and scheduling system | JavaScript |
-| **📅 Booking System** | Appointment & reservation management platform | HTML, CSS |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🤝 Let’s Connect
-
-- 💬 Open to learning, collaboration, and feedback  
-- ⭐ Feel free to **follow** and check out my projects
+Open to feedback, collabs, and building cool things together.  
+⭐ Star a repo if something catches your eye — it means a lot.
 
 ---
 
 <div align="center">
-  <strong>⚡ “Learning by building is my superpower.”</strong>
+
+*"I don't just write code — I build systems."*
+
 </div>
