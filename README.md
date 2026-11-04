@@ -86,3 +86,13 @@ Open to feedback, collabs, and building cool things together.
 *"I don't just write code — I build systems."*
 
 </div>
+
+## Mission and Goals
+
+**Mission:** Grow as a software engineer by learning through practical projects and sharing work openly.
+
+**Goals:**
+- Build useful web applications and backend systems.
+- Strengthen programming, database design, and software engineering fundamentals.
+- Improve projects through testing, documentation, and regular iteration.
+- Share progress honestly and collaborate with other developers.
