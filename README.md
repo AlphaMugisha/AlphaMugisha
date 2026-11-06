@@ -1,189 +1,237 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111f,45:063b4a,100:00e5ff&text=ALPHA%20MUGISHA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Engineering%20%7C%20Year%202&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=190&section=header&text=ALPHA%20MUGISHA&fontSize=54&fontColor=F5F5F5&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%2F%2F%20YEAR%2002&descSize=13&descAlignY=66&descColor=FEB002" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=I+turn+ideas+into+working+software.;Backend+%7C+Full-Stack+%7C+Embedded+Systems;Learning+by+building+real-world+projects." alt="Animated introduction" />
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=17&duration=3200&pause=1000&color=FEB002&center=true&vCenter=true&repeat=true&width=650&height=38&lines=I+build+software+that+solves+real+problems.;Web+systems.+Backend.+Embedded+technology.;Learning+in+public.+Building+with+purpose." alt="Animated introduction" /></p>
 
-<img src="https://img.shields.io/badge/YEAR-2-00D9FF?style=for-the-badge&labelColor=07111F" /> <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-00D9FF?style=for-the-badge&labelColor=07111F" /> <img src="https://img.shields.io/badge/BASED%20IN-RWANDA-00D9FF?style=for-the-badge&labelColor=07111F" />
+<p>
+<img src="https://img.shields.io/badge/YEAR-02-FEB002?style=for-the-badge&labelColor=1A1A1A" />
+<img src="https://img.shields.io/badge/BASED%20IN-RWANDA-FEB002?style=for-the-badge&labelColor=1A1A1A" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-FEB002?style=for-the-badge&labelColor=1A1A1A" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-AlphaMugisha-111827?style=flat&logo=github&logoColor=white)](https://github.com/AlphaMugisha) [![Profile Views](https://komarev.com/ghpvc/?username=AlphaMugisha&style=flat&color=00D9FF&label=PROFILE+VIEWS)](https://github.com/AlphaMugisha)
-
+<a href="https://github.com/AlphaMugisha"><img src="https://img.shields.io/badge/GITHUB-AlphaMugisha-FEB002?style=flat-square&logo=github&logoColor=0D0D0D&labelColor=F5F5F5" /></a>
+<a href="https://alphamugisha.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-FEB002?style=flat-square&logo=vercel&logoColor=0D0D0D&labelColor=F5F5F5" /></a>
 </div>
 
 ---
 
-## 01 — About Me
+<div align="center">**BUILD WITH INTENTION. SHIP WITH CARE. KEEP GETTING BETTER.**</div>
 
-Hey! I'm **Alpha Mugisha**, a **Year 2 Software Engineering student at Coding Academy** in Rwanda.
+## 01 / THE DEVELOPER
 
-I enjoy building practical technology: web applications, backend services, database-driven systems, and embedded projects that connect software to the physical world. I care about understanding how things work, writing maintainable code, and turning ideas into systems people can actually use.
+I'm **Alpha Mugisha** — a Year 2 Software Engineering student at Coding Academy, Rwanda.
 
-- 🔭 **Building:** web platforms, AI-powered learning tools, and embedded systems.
-- 🧠 **Interested in:** backend engineering, databases, system design, and AI.
-- 🔌 **Exploring:** ESP32, Raspberry Pi, sensors, automation, and hardware/software integration.
-- 🌱 **Improving:** API design, SQL, authentication, testing, and deployment.
-- 📍 **From:** Rwanda 🇷🇼
+I like working where software meets real-world problems: backend systems, database-driven platforms, web experiences, and embedded electronics. I learn by building, testing, breaking things, understanding why, and improving the result.
+
+- **Currently exploring** — backend architecture, full-stack development, databases and applied AI.
+- **Also building with** — ESP32, Raspberry Pi, sensors and automation.
+- **Engineering mindset** — useful features, clean logic, reliable data, accessible interfaces.
+- **Long-term direction** — become an engineer who can take an idea from its first sketch to a dependable product.
 
 ---
 
-## 02 — Featured Work
+## 02 / SELECTED WORK
+
+A selection of projects and systems from my portfolio and development work.
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### 📚 StudyFlow
-A student study tracker for organizing timetables, tracking current activities, and managing study routines.
+### 01 — RwaSport
+**Sports technology · Platform**
 
-**Stack:** Next.js · TypeScript · Supabase · PostgreSQL
+A digital platform concept bringing federations, clubs, schools, fixtures and results into one structured system.
 
-</td><td width="50%" valign="top">
+<sub>React · TypeScript · Express · Prisma · PostgreSQL</sub>
 
-### 🤖 Reaedify
-An AI learning assistant concept: upload documents or text, get focused summaries, identify exam topics, and practise with quizzes.
+<sub>43 data models · 13 seeded teams · 37 fixtures</sub>
 
-**Exploring:** AI integration · Web development · Supabase
+<a href="https://github.com/couper117/platform">Explore project ↗</a>
 
-</td></tr><tr><td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-### 🧭 Tembera Rwanda
-A tourism discovery platform for exploring places across Rwanda, with categories, districts, and multilingual support.
+### 02 — Tembera
+**Tourism · Web platform**
 
-**Stack:** JavaScript · Web development · Data
+A structured Rwanda tourism guide with searchable places, maps, categories and saved destinations.
 
-</td><td width="50%" valign="top">
+<sub>Next.js · TypeScript · Prisma · PostgreSQL</sub>
 
-### 🏆 RwaSport
-A sports management platform concept covering federations, competitions, school sports, and related workflows.
+<sub>495 places · 30 cities · 87 categories</sub>
 
-**Exploring:** Web development · Databases · Backend
+<a href="https://alphamugisha.vercel.app">View portfolio ↗</a>
 
-</td></tr><tr><td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🧾 Kami POS
-A point-of-sale application for managing sales and business records.
+### 03 — Greenhouse Automation
+**IoT · Embedded systems**
 
-**Stack:** PHP · MariaDB · PDO
+An ESP32-based monitoring and automation prototype connecting environmental sensors, a display, relay control and cloud records.
 
-</td><td width="50%" valign="top">
+<sub>ESP32 · C++ · Arduino · DHT sensor · Supabase</sub>
 
-### 🌡️ ESP32 Greenhouse & Dryer
-An automation project that reads temperature and humidity, displays sensor data, controls a relay, and records readings.
+</td>
+<td width="50%" valign="top">
 
-**Stack:** ESP32 · C++ · DHT21 · LCD · Supabase
+### 04 — Clean Kigali
+**Civic technology · Web**
 
-</td></tr><tr><td width="50%" valign="top">
+A community sanitation reporting service with issue tracking, multilingual support and an administrative workflow.
 
-### 🪪 RFID Attendance & Pickup
-An RFID-based school workflow prototype connecting card scans with attendance and pickup records.
+<sub>TypeScript · Node.js · Express · MySQL</sub>
 
-**Stack:** ESP32 · RFID · C++ · Supabase
+<a href="https://github.com/AlphaMugisha/umuganda">Explore project ↗</a>
 
-</td><td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🚗 Smart Parking
-A Raspberry Pi-based prototype exploring vehicle detection and parking monitoring with sensors.
+### 05 — TransitEco
+**Transport · API design**
 
-**Stack:** Raspberry Pi 5 · Python · Ultrasonic sensors
+A transport system prototype for routes, schedules, seat bookings and vehicle-location workflows.
 
-</td></tr><tr><td width="50%" valign="top">
+<sub>Laravel · PHP · Next.js · TypeScript · REST</sub>
 
-### ⚡ Cash Power Monitoring
-A team project exploring electricity credit and usage monitoring, with ESP32 readings sent to a Python service.
+<a href="https://github.com/AlphaMugisha/Tega-Bus">Explore project ↗</a>
 
-**Stack:** ESP32 · C++ · Python · Flask · JSON
+</td>
+<td width="50%" valign="top">
 
-</td><td width="50%" valign="top">
+### 06 — Digital Ikibina
+**FinTech · Community systems**
 
-### ⏰ Online Alarm System
-A browser-based alert and scheduling platform for creating and managing time-based reminders.
+A digital approach to rotating savings groups, modelling members, contributions and payout cycles.
 
-**Stack:** JavaScript · HTML · CSS
+<sub>Next.js · TypeScript · Prisma · PostgreSQL</sub>
 
-</td></tr><tr><td width="50%" valign="top">
+<a href="https://github.com/AlphaMugisha/digital-ikibina">Explore project ↗</a>
 
-### 📅 Booking System
-An appointment and reservation management project covering time slots and booking workflows.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Stack:** HTML · CSS · JavaScript
+### 07 — Payment System
+**Backend · FinTech**
 
-</td><td width="50%" valign="top">
+A multi-role payments application exploring transaction workflows, provider webhooks and background processing.
 
-### 🗄️ Student Management System
-A database-driven application for managing student records and academic information.
+<sub>Next.js · TypeScript · Prisma · PostgreSQL</sub>
 
-**Stack:** PHP · MySQL · HTML
+<a href="https://github.com/AlphaMugisha/payment-system">Explore project ↗</a>
 
-</td></tr>
+</td>
+<td width="50%" valign="top">
+
+### 08 — School & Community Systems
+**Full-stack · Practical software**
+
+A collection of systems for institutions and small organisations, including school, library, church and point-of-sale workflows.
+
+<sub>PHP · MySQL · JavaScript · Tailwind CSS</sub>
+
+<a href="https://github.com/AlphaMugisha/kami">Explore project ↗</a>
+
+</td>
+</tr>
 </table>
 
+<details>
+<summary><strong>More things I've been building and exploring</strong></summary>
+
+- **StudyFlow** — student timetable, study activity and dashboard workflows.
+- **Reaedify** — an AI-assisted learning app concept for document summaries, exam topics and quizzes.
+- **RFID Attendance & Pickup** — ESP32 card-scanning workflows connected to student records.
+- **Smart Parking** — Raspberry Pi 5 and sensor-based parking prototype.
+- **Cash Power Monitoring** — ESP32 electricity readings sent to a Python/Flask service.
+- **Online Alarm System** — browser-based time alerts and scheduling.
+- **Booking System** — appointment and reservation workflows.
+- **Student Management System** — student records and academic data.
+
+</details>
+
 ---
 
-## 03 — Tech Stack
+## 03 / TOOLBOX
 
 <div align="center">
 
-**Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,java" alt="Programming languages" />
+**LANGUAGES**
 
-**Frontend & Backend**
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" alt="Web technologies" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,cpp,java&theme=dark" />
 
-**Databases & Tools**
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,git,github,vscode" alt="Databases and development tools" />
+**WEB & APPLICATION DEVELOPMENT**
 
-**Embedded & Hardware**
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded systems tools" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind&theme=dark" />
+
+**DATA & DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,git,github,vscode&theme=dark" />
+
+**EMBEDDED & HARDWARE**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 
 </div>
 
 ---
 
-## 04 — GitHub Dashboard
+## 04 / GITHUB ACTIVITY
 
 <div align="center">
 
-<a href="https://github.com/AlphaMugisha"><img height="170" src="https://github-readme-stats.vercel.app/api?username=AlphaMugisha&show_icons=true&hide_border=true&bg_color=07111F&title_color=00E5FF&icon_color=00E5FF&text_color=E6F1FF&rank_icon=github" alt="GitHub statistics" /></a>
-<a href="https://github.com/AlphaMugisha"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaMugisha&layout=compact&hide_border=true&bg_color=07111F&title_color=00E5FF&text_color=E6F1FF" alt="Most used languages" /></a>
+<a href="https://github.com/AlphaMugisha"><img height="165" src="https://github-readme-stats.vercel.app/api?username=AlphaMugisha&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FEB002&icon_color=FEB002&text_color=ECECEC&ring_color=FEB002" alt="GitHub statistics" /></a>
+<a href="https://github.com/AlphaMugisha"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaMugisha&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FEB002&text_color=ECECEC" alt="Most used languages" /></a>
 
-<a href="https://git.io/streak-stats"><img width="70%" src="https://streak-stats.demolab.com?user=AlphaMugisha&hide_border=true&background=07111F&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E6F1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8BA3B8" alt="GitHub contribution streak" /></a>
+<br/>
+<img width="72%" src="https://streak-stats.demolab.com?user=AlphaMugisha&hide_border=true&background=0D0D0D&ring=FEB002&fire=FEB002&currStreakLabel=FEB002&sideLabels=ECECEC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="Contribution streak" />
+<br/>
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=AlphaMugisha&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img width="95%" src="https://github-profile-trophy.vercel.app/?username=AlphaMugisha&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" /></a>
+</div>
 
+### Contribution graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AlphaMugisha/AlphaMugisha/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph" width="100%" />
 </div>
 
 ---
 
-## 05 — What I’m Learning
+## 05 / WHAT'S NEXT
 
-| Focus | What I’m working to improve |
+| Direction | Current focus |
 |:--|:--|
-| Backend engineering | APIs, server-side logic, authentication |
-| Databases | SQL, relationships, normalization, PostgreSQL |
-| Full-stack development | TypeScript, React, Next.js |
-| Software engineering | Clean code, testing, architecture, documentation |
-| Embedded systems | Microcontrollers, sensors, communication, automation |
-| Deployment | Hosting, environment configuration, production workflows |
+| Backend engineering | APIs, server-side architecture and authentication |
+| Database engineering | SQL, data modelling, relationships and PostgreSQL |
+| Full-stack development | TypeScript, React and Next.js |
+| Embedded systems | Microcontrollers, sensors and automation |
+| Software quality | Maintainable code, testing and documentation |
+| Product building | Deployment, usability and real-world problem solving |
 
 ---
 
-## 06 — Mission & Direction
+## 06 / THE MISSION
 
-> **Build technology that solves real problems. Keep learning. Make every project better than the last.**
+> Build useful technology. Understand the systems behind it. Make the next version better.
 
-My goal is to grow into a well-rounded software engineer who can design, build, test, and deploy reliable applications — and use technology to make a meaningful difference in Rwanda and beyond.
-
----
-
-## 07 — Connect
+My mission is to keep developing the skills to design, build and maintain dependable software — especially products that solve practical problems in Rwanda and beyond.
 
 <div align="center">
 
-<a href="https://github.com/AlphaMugisha"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://alphamugisha.vercel.app"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-FEB002?style=for-the-badge&labelColor=0D0D0D&logo=vercel&logoColor=FEB002" /></a>
+<a href="https://github.com/AlphaMugisha"><img src="https://img.shields.io/badge/SEE%20MY%20CODE-ECECEC?style=for-the-badge&labelColor=1A1A1A&logo=github&logoColor=FEB002" /></a>
 
-**Open to learning, feedback, and building useful things with other developers.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,55:063B4A,100:07111F&height=110&section=footer" />
-
-<sub>Designed with curiosity, built with code. © Alpha Mugisha</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=115&section=footer" />
+<sub>ALPHA MUGISHA · SOFTWARE ENGINEERING · RWANDA</sub>
 
 </div>
