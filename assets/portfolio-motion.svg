@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Alpha Mugisha — animated engineering workspace</title>
+<desc id="desc">A dark charcoal and amber animated profile scene with independently floating technology cards, a moving orbital line, a pulsing status light and a scrolling technology ticker.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171717"/><stop offset="1" stop-color="#0D0D0D"/></linearGradient>
+  <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFC94A"/><stop offset="1" stop-color="#FEB002"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#FEB002" stop-opacity=".2"/><stop offset="1" stop-color="#FEB002" stop-opacity="0"/></radialGradient>
+  <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur in="SourceAlpha" stdDeviation="12"/><feOffset dy="10"/><feComponentTransfer><feFuncA type="linear" slope=".3"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="clip"><rect width="1200" height="430" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+  <circle cx="850" cy="165" r="280" fill="url(#glow)"/>
+  <path d="M-50 330 C210 220 330 460 600 310 S980 180 1260 300" fill="none" stroke="#FEB002" stroke-opacity=".15" stroke-width="1.5"/>
+  <path d="M-30 355 C230 245 360 485 620 335 S990 205 1240 325" fill="none" stroke="#FEB002" stroke-opacity=".10" stroke-width="1"/>
+  <g opacity=".18" stroke="#F5F5F5" stroke-width="1">
+    <path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200"/>
+    <path d="M120 0V430M240 0V430M360 0V430M480 0V430M600 0V430M720 0V430M840 0V430M960 0V430M1080 0V430"/>
+  </g>
+  <text x="70" y="76" fill="#FEB002" font-family="monospace" font-size="13" letter-spacing="4">INDEPENDENT BUILDER / RWANDA</text>
+  <text x="66" y="165" fill="#F5F5F5" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Build things.</text>
+  <text x="66" y="238" fill="#FEB002" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Make them work.</text>
+  <text x="70" y="282" fill="#B4B4B4" font-family="Arial, sans-serif" font-size="18">Software engineering · Year 2 · Alpha Mugisha</text>
+  <g transform="translate(70 330)">
+    <circle cx="8" cy="8" r="5" fill="#FEB002">
+      <animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="25" y="13" fill="#F5F5F5" font-family="monospace" font-size="12" letter-spacing="2">CURRENTLY BUILDING</text>
+  </g>
+  <g transform="translate(790 55)" filter="url(#shadow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="6.7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" additive="sum" type="rotate" values="-5 145 60;-2 145 60;-5 145 60" dur="6.7s" repeatCount="indefinite"/>
+      <rect x="0" y="0" width="250" height="112" rx="20" fill="#FEB002"/>
+      <text x="22" y="31" fill="#171717" opacity=".62" font-family="monospace" font-size="10" letter-spacing="2">01 / WEB ENGINEERING</text>
+      <text x="22" y="70" fill="#171717" font-family="Arial,sans-serif" font-size="27" font-weight="700">Full-stack</text>
+      <text x="22" y="92" fill="#171717" opacity=".7" font-family="Arial,sans-serif" font-size="12">Next.js · TypeScript · PostgreSQL</text>
+    </g>
+  </g>
+  <g transform="translate(865 190)" filter="url(#shadow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 13;0 0" dur="8.1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" additive="sum" type="rotate" values="4 120 48;1 120 48;4 120 48" dur="8.1s" repeatCount="indefinite"/>
+      <rect width="230" height="104" rx="20" fill="#252525" stroke="#555" stroke-opacity=".7"/>
+      <text x="20" y="30" fill="#FEB002" font-family="monospace" font-size="10" letter-spacing="2">02 / HARDWARE</text>
+      <text x="20" y="67" fill="#F5F5F5" font-family="Arial,sans-serif" font-size="25" font-weight="700">Embedded</text>
+      <text x="20" y="88" fill="#B4B4B4" font-family="Arial,sans-serif" font-size="12">ESP32 · C++ · sensors</text>
+    </g>
+  </g>
+  <g transform="translate(740 305)" filter="url(#shadow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="7.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" additive="sum" type="rotate" values="-3 110 35;2 110 35;-3 110 35" dur="7.4s" repeatCount="indefinite"/>
+      <rect width="225" height="76" rx="18" fill="#F5F5F5"/>
+      <text x="19" y="27" fill="#8A6000" font-family="monospace" font-size="10" letter-spacing="2">03 / DATA &amp; AI</text>
+      <text x="19" y="55" fill="#171717" font-family="Arial,sans-serif" font-size="22" font-weight="700">Systems thinking</text>
+    </g>
+  </g>
+  <path d="M745 115 C700 160 720 260 790 275 S910 290 940 320" fill="none" stroke="#FEB002" stroke-width="1.5" stroke-dasharray="5 8" opacity=".65">
+    <animate attributeName="stroke-dashoffset" from="0" to="-52" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <rect x="0" y="402" width="1200" height="28" fill="#FEB002"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="18s" repeatCount="indefinite"/>
+    <text x="30" y="421" fill="#171717" font-family="monospace" font-size="12" font-weight="700" letter-spacing="2">BACKEND ENGINEERING  •  DATABASES  •  FULL-STACK  •  EMBEDDED SYSTEMS  •  APPLIED AI  •  </text>
+    <text x="630" y="421" fill="#171717" font-family="monospace" font-size="12" font-weight="700" letter-spacing="2">BACKEND ENGINEERING  •  DATABASES  •  FULL-STACK  •  EMBEDDED SYSTEMS  •  APPLIED AI  •  </text>
+  </g>
+</g>
+</svg>
