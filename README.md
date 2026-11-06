@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=8" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=190&section=header&text=ALPHA%20MUGISHA&fontSize=54&fontColor=F5F5F5&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%2F%2F%20YEAR%2002&descSize=13&descAlignY=66&descColor=FEB002" />
+<a href="https://alphamugisha.vercel.app"><img width="100%" src="https://raw.githubusercontent.com/AlphaMugisha/AlphaMugisha/main/assets/portfolio-motion.svg" alt="Animated portfolio-inspired scene: floating technology cards, orbital motion and scrolling amber ticker" /></a>
 
 <p><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=17&duration=3200&pause=1000&color=FEB002&center=true&vCenter=true&repeat=true&width=650&height=38&lines=I+build+software+that+solves+real+problems.;Web+systems.+Backend.+Embedded+technology.;Learning+in+public.+Building+with+purpose." alt="Animated introduction" /></p>
 
